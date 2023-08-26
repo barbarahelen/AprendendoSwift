@@ -11,7 +11,6 @@
 		3814A3C02A79E1EA005473AB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3814A3BF2A79E1EA005473AB /* SceneDelegate.swift */; };
 		3814A3C22A79E1EA005473AB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3814A3C12A79E1EA005473AB /* ViewController.swift */; };
 		3814A3C52A79E1EA005473AB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3814A3C32A79E1EA005473AB /* Main.storyboard */; };
-		3814A3C72A79E1EB005473AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3814A3C62A79E1EB005473AB /* Assets.xcassets */; };
 		3814A3CA2A79E1EB005473AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3814A3C82A79E1EB005473AB /* LaunchScreen.storyboard */; };
 		38C0CAFE2A969E8F0014D082 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38C0CAFD2A969E8F0014D082 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -22,7 +21,6 @@
 		3814A3BF2A79E1EA005473AB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		3814A3C12A79E1EA005473AB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		3814A3C42A79E1EA005473AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		3814A3C62A79E1EB005473AB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3814A3C92A79E1EB005473AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3814A3CB2A79E1EB005473AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		38C0CAFD2A969E8F0014D082 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = SOURCE_ROOT; };
@@ -61,11 +59,10 @@
 				3814A3BD2A79E1EA005473AB /* AppDelegate.swift */,
 				3814A3BF2A79E1EA005473AB /* SceneDelegate.swift */,
 				3814A3C12A79E1EA005473AB /* ViewController.swift */,
+				38C0CAFD2A969E8F0014D082 /* Assets.xcassets */,
 				3814A3C32A79E1EA005473AB /* Main.storyboard */,
-				3814A3C62A79E1EB005473AB /* Assets.xcassets */,
 				3814A3C82A79E1EB005473AB /* LaunchScreen.storyboard */,
 				3814A3CB2A79E1EB005473AB /* Info.plist */,
-				38C0CAFD2A969E8F0014D082 /* Assets.xcassets */,
 			);
 			path = DiceGame;
 			sourceTree = "<group>";
@@ -129,7 +126,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				3814A3CA2A79E1EB005473AB /* LaunchScreen.storyboard in Resources */,
-				3814A3C72A79E1EB005473AB /* Assets.xcassets in Resources */,
 				38C0CAFE2A969E8F0014D082 /* Assets.xcassets in Resources */,
 				3814A3C52A79E1EA005473AB /* Main.storyboard in Resources */,
 			);
